@@ -1,0 +1,8 @@
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Console.WriteLine("Hello, C#!");
+        Console.WriteLine(Environment.OSVersion.VersionString);
+    }
+}
