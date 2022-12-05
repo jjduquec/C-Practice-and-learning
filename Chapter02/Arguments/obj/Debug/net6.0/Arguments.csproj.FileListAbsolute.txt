@@ -1,0 +1,17 @@
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\bin\Debug\net6.0\Arguments.exe
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\bin\Debug\net6.0\Arguments.deps.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\bin\Debug\net6.0\Arguments.runtimeconfig.json
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\bin\Debug\net6.0\Arguments.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\bin\Debug\net6.0\Arguments.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.AssemblyReference.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfoInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.AssemblyInfo.cs
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.CoreCompileInputs.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\refint\Arguments.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.pdb
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.genruntimeconfig.cache
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\ref\Arguments.dll
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.Properties.Resources.resources
+C:\Users\duqjua01\OneDrive - CSG Systems Inc\Desktop\NetLearning\Chapter02\Arguments\obj\Debug\net6.0\Arguments.csproj.GenerateResource.cache
